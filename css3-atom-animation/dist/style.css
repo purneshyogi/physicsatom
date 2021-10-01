@@ -3,9 +3,14 @@ html, body {
 }
 
 body {
-  background: linear-gradient(to right, #c0392b, #8e44ad);
+  background: linear-gradient(to right, #154de9, #749bc0);
   transform: scale(1.2, 1.2);
   overflow: hidden;
+}
+#distime{
+  text-align: center;
+  padding-top: 5%;
+  font-size: large;
 }
 body > div {
   border-radius: 50%;
